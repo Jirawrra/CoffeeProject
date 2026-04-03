@@ -459,7 +459,7 @@ Material:
     - _Tweak_MatcapMaskLevel: 0
     - _Tweak_RimLightMaskLevel: 0
     - _Tweak_ShadingGradeMapLevel: 0
-    - _Tweak_SystemShadowsLevel: -0.012
+    - _Tweak_SystemShadowsLevel: -0.143
     - _Tweak_transparency: 0
     - _UVDetail: 0
     - _Unlit_Intensity: 0
@@ -477,15 +477,15 @@ Material:
     - _simpleUI: 0
     - _utsTechnique: 0
     m_Colors:
-    - _1st_ShadeColor: {r: 0.53092736, g: 0.7635618, b: 0.9150943, a: 1}
+    - _1st_ShadeColor: {r: 0.6666667, g: 0.76245743, b: 0.9254902, a: 1}
     - _2nd_ShadeColor: {r: 0.71675867, g: 0.7954986, b: 0.8584906, a: 1}
     - _AngelRingMaskColor: {r: 0, g: 1, b: 0, a: 1}
     - _AngelRing_Color: {r: 1, g: 1, b: 1, a: 1}
     - _Ap_RimLightColor: {r: 1, g: 1, b: 1, a: 1}
-    - _BaseColor: {r: 0.6853863, g: 0.8539978, b: 0.9622642, a: 1}
+    - _BaseColor: {r: 0.9960785, g: 0.9176471, b: 0.8196079, a: 1}
     - _BaseColorMap_MipInfo: {r: 0, g: 0, b: 0, a: 0}
     - _BaseColorMaskColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Color: {r: 0.6853863, g: 0.8539978, b: 0.9622641, a: 1}
+    - _Color: {r: 0.99607843, g: 0.9176471, b: 0.8196079, a: 1}
     - _ColorShift: {r: 0, g: 0, b: 0, a: 1}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
